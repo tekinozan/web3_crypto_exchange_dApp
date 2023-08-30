@@ -1,6 +1,6 @@
 import { Goerli } from "@usedapp/core";
 
-export const ROUTER_ADDRESS = "YOUR ROUTER ADDRESS";
+export const ROUTER_ADDRESS = "YOUR_ROUTER_ADDRESS";
 //export const POOLS = undefined; 
 //export const COIN_NAME = "WETH";
 
