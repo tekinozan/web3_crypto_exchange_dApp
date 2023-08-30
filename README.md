@@ -15,15 +15,6 @@ This template contains 2 packages
 The React app implements a basic example for how to connect and pull data from the
 [Uniswap v2](httpsthegraph.comexplorersubgraphuniswapuniswap-v2) subgraph.
 
-## What is Uniswap v2
-
-Uniswap V2 is the second iteration of the Uniswap, a protocol for automated token exchange on Ethereum. Read more about it in the [official documentation](httpsuniswap.orgdocsv2).
-
-## How to regenerate the project
-
-Run yarn create eth-app my-eth-app --template uniswap-v2
-More httpsgithub.compaulrbergcreate-eth-app
-
 ## How to start
 
 - yarn install
